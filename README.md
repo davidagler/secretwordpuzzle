@@ -1,7 +1,4 @@
-# secretwordpuzzle
-Sample code used to solve a version of the secret word problem
-
-# Here is my version of the Secret Word Puzzle
+# Secret Word Puzzle
 
 Suppose there are three logicians. On a table, they are presented with the following letter combinations (let's call these letter combinations "words" for convenience):
 
